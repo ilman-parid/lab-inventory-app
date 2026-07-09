@@ -1,6 +1,6 @@
 # SIPINJAM — Sistem Peminjaman Inventaris Laboratorium
 
-## 📋 Deskripsi
+##  Deskripsi
 
 SIPINJAM adalah aplikasi web full-stack untuk mengelola **inventaris barang laboratorium** dan **transaksi peminjamannya**. Aplikasi ini dibuat untuk memenuhi tugas UAS Pemograman Web 2, dengan tema **Sistem Manajemen Informasi**.
 
@@ -45,7 +45,7 @@ lab-inventory-app/
 
 ---
 
-## 🚀 Panduan Menjalankan di Lokal
+##  Panduan Menjalankan di Lokal
 
 ### Prasyarat
 - Node.js v18+ dan npm
@@ -105,7 +105,7 @@ Buka browser ke `http://localhost:5173`.
 
 ---
 
-## 🔌 Daftar Endpoint API
+##  Daftar Endpoint API
 
 ### Barang
 | Method | Endpoint            | Keterangan            |
@@ -127,6 +127,3 @@ Buka browser ke `http://localhost:5173`.
 
 ---
 
-## 👤 Pembuat
-Tugas UAS Mata Kuliah Pemograman Web 2 — Program Studi Teknik Informatika, Universitas Teknologi Bandung.
-Dosen Pengampu: Muhammad Reksa Ariansyah, S.Kom., M.Kom.
